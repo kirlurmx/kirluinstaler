@@ -1,5 +1,5 @@
 #!/bin/bash
-
+      echo "created by kirlurmx"
 echo "hola futuros juackers rusos :y"
 
 echo "[1] Shellphish
