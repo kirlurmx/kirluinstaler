@@ -1,7 +1,9 @@
+#!/Bin/bash
 
 echo "hola futuros juackers rusos :y"                                                                                                                                          echo "create by kirlurmx"
 
-echo "[1] Shellphish
+echo 
+"[1] Shellphish
 [2] AIOChk
 [3] PasTerm
 [4] 13_tools
